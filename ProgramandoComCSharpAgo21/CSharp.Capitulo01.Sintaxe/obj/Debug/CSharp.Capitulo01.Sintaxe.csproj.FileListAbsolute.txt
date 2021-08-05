@@ -1,0 +1,9 @@
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.Sintaxe\bin\Debug\CSharp.Capitulo01.Sintaxe.exe.config
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.Sintaxe\bin\Debug\CSharp.Capitulo01.Sintaxe.exe
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.Sintaxe\bin\Debug\CSharp.Capitulo01.Sintaxe.pdb
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.Properties.Resources.resources
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.VariaveisForm.resources
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.csproj.GenerateResource.cache
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.exe
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.pdb

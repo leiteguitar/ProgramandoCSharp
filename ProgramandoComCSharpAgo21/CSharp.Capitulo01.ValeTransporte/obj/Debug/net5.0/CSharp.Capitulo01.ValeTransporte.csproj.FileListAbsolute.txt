@@ -1,0 +1,16 @@
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.exe
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.deps.json
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.runtimeconfig.json
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.runtimeconfig.dev.json
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.dll
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\ref\CSharp.Capitulo01.ValeTransporte.dll
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.pdb
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.csproj.AssemblyReference.cache
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.AssemblyInfoInputs.cache
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.AssemblyInfo.cs
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.dll
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\ref\CSharp.Capitulo01.ValeTransporte.dll
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.pdb
+C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.genruntimeconfig.cache
