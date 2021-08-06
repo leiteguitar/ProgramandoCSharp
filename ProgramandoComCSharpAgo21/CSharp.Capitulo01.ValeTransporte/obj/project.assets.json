@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\ProgramandoComCSharpAgo21\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
+      "projectUniqueName": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
       "projectName": "CSharp.Capitulo01.ValeTransporte",
-      "projectPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\ProgramandoComCSharpAgo21\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
+      "projectPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
       "packagesPath": "C:\\Users\\Vinny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\ProgramandoComCSharpAgo21\\CSharp.Capitulo01.ValeTransporte\\obj\\",
+      "outputPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\CSharp.Capitulo01.ValeTransporte\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

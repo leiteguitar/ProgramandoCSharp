@@ -1,0 +1,7 @@
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Cap2.GeradorSenha\bin\Debug\CSharp.Cap2.GeradorSenha.exe.config
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Cap2.GeradorSenha\bin\Debug\CSharp.Cap2.GeradorSenha.exe
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Cap2.GeradorSenha\bin\Debug\CSharp.Cap2.GeradorSenha.pdb
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Cap2.GeradorSenha\obj\Debug\CSharp.Cap2.GeradorSenha.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Cap2.GeradorSenha\obj\Debug\CSharp.Cap2.GeradorSenha.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Cap2.GeradorSenha\obj\Debug\CSharp.Cap2.GeradorSenha.exe
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Cap2.GeradorSenha\obj\Debug\CSharp.Cap2.GeradorSenha.pdb
