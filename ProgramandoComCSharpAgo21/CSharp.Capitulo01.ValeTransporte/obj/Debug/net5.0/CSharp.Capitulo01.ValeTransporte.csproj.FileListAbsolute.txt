@@ -14,3 +14,19 @@ C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.
 C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\ref\CSharp.Capitulo01.ValeTransporte.dll
 C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.pdb
 C:\Users\Vitor Avelino\source\repos\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.genruntimeconfig.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.exe
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.deps.json
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.runtimeconfig.json
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.runtimeconfig.dev.json
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\ref\CSharp.Capitulo01.ValeTransporte.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.pdb
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.AssemblyInfoInputs.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.AssemblyInfo.cs
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\ref\CSharp.Capitulo01.ValeTransporte.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.pdb
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.genruntimeconfig.cache

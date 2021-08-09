@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Cap2.GeradorSenha", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.UnitTest", "CSharp.UnitTest\CSharp.UnitTest.csproj", "{5F7579D9-3CAD-42AA-8079-8921E620865A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTech.Dominio", "FinTech.Dominio\FinTech.Dominio.csproj", "{675D764F-2E4E-4AD6-9B27-99A2F7FD77B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5F7579D9-3CAD-42AA-8079-8921E620865A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F7579D9-3CAD-42AA-8079-8921E620865A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F7579D9-3CAD-42AA-8079-8921E620865A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675D764F-2E4E-4AD6-9B27-99A2F7FD77B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675D764F-2E4E-4AD6-9B27-99A2F7FD77B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675D764F-2E4E-4AD6-9B27-99A2F7FD77B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675D764F-2E4E-4AD6-9B27-99A2F7FD77B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\bin\Debug\net5.0\FinTech.Dominio.deps.json
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\bin\Debug\net5.0\FinTech.Dominio.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\bin\Debug\net5.0\ref\FinTech.Dominio.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\bin\Debug\net5.0\FinTech.Dominio.pdb
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\obj\Debug\net5.0\FinTech.Dominio.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\obj\Debug\net5.0\FinTech.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\obj\Debug\net5.0\FinTech.Dominio.AssemblyInfoInputs.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\obj\Debug\net5.0\FinTech.Dominio.AssemblyInfo.cs
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\obj\Debug\net5.0\FinTech.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\obj\Debug\net5.0\FinTech.Dominio.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\obj\Debug\net5.0\ref\FinTech.Dominio.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\FinTech.Dominio\obj\Debug\net5.0\FinTech.Dominio.pdb
