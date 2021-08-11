@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.UnitTest", "CSharp.U
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinTech.Dominio", "FinTech.Dominio\FinTech.Dominio.csproj", "{675D764F-2E4E-4AD6-9B27-99A2F7FD77B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fintech.Correntista.Wpf", "Fintech.Correntista.Wpf\Fintech.Correntista.Wpf.csproj", "{40C68CE6-6563-4864-9FD2-AA2D25F66FCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fintech.Correntista.Wpf", "Fintech.Correntista.Wpf\Fintech.Correntista.Wpf.csproj", "{40C68CE6-6563-4864-9FD2-AA2D25F66FCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fintech", "Fintech", "{F321B2A4-B983-445E-BCA2-CEB45BB5585E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +50,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{675D764F-2E4E-4AD6-9B27-99A2F7FD77B3} = {F321B2A4-B983-445E-BCA2-CEB45BB5585E}
+		{40C68CE6-6563-4864-9FD2-AA2D25F66FCA} = {F321B2A4-B983-445E-BCA2-CEB45BB5585E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8313DEE-AF47-40C4-AACC-50431982EC95}

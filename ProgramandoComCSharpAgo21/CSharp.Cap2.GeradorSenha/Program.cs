@@ -23,15 +23,9 @@ namespace CSharp.Cap2.GeradorSenha
             }
             if (senhaValida)
             {
-                string novaSenha = String.Empty;
+                Senha password = new Senha(qtdeDigitos);
+                string novaSenha = password.GerarSenha();
 
-                var rnd = new Random();
-
-                for (int i = 0; i < qtdeDigitos; i++)
-                {
-                    var numRandom = rnd.Next(0, 9);
-                    novaSenha += numRandom;
-                }
                 Console.WriteLine($"Sua senha é {novaSenha}");
                 Console.ReadKey();
             }
