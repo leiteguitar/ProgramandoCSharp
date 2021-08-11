@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "FinTech.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/FinTech.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinTech.Dominio.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FinTech.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../FinTech.Dominio/FinTech.Dominio.csproj",
+      "msbuildProject": "../FinTech.Dominio/FinTech.Dominio.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "FinTech.Dominio >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Vinny\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\FinTech.Dominio\\FinTech.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\FinTech.Dominio\\FinTech.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

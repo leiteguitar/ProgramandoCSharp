@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Fintech.Correntista.Wpf/1.0.0": {
+        "dependencies": {
+          "FinTech.Dominio": "1.0.0"
+        },
         "runtime": {
           "Fintech.Correntista.Wpf.dll": {}
+        }
+      },
+      "FinTech.Dominio/1.0.0": {
+        "runtime": {
+          "FinTech.Dominio.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Fintech.Correntista.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinTech.Dominio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

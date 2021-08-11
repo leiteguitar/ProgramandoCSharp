@@ -36,7 +36,6 @@ namespace CSharp.Cap2.GeradorSenha
                 Console.ReadKey();
             }
             
-
         }
 
         private static bool VerificaDigito(int qtdeDigitos, bool senhaValida)

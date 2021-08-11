@@ -9,7 +9,9 @@
     <TabControl>
         <TabItem Header="Clientes">
             <TabControl TabStripPlacement="Left">
-                <TabItem Header="Pesquisa"></TabItem>
+                <TabItem Header="Pesquisa" Name="pesquisaTab">
+                    <DataGrid Name="clienteDataGrid" AutoGenerateColumns="True" CanUserAddRows="False"/>
+                </TabItem>
                 <TabItem Header="Cadastro">
                     <StackPanel>
                         <DockPanel>
@@ -53,7 +55,8 @@
                                      TextWrapping="NoWrap" Width="580" HorizontalAlignment="Left"/>
                         </DockPanel>
                         <DockPanel>
-                            <Button Name="incluirClienteButton" Content="Incluir" Margin="120 2 0 0" HorizontalAlignment="Left" Width="150" Height="23"/>
+                            <Button Name="incluirClienteButton" Content="Incluir" Margin="120 2 0 0"
+                                    HorizontalAlignment="Left" Width="150" Height="23" Click="incluirClienteButton_Click"/>
                         </DockPanel>
 
                     </StackPanel>

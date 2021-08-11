@@ -20,3 +20,6 @@ C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\Pro
 C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\ref\Fintech.Correntista.Wpf.dll
 C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.pdb
 C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.genruntimeconfig.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\FinTech.Dominio.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\FinTech.Dominio.pdb
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.csproj.CopyComplete
