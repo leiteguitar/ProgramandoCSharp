@@ -20,30 +20,40 @@
   <Class Name="FinTech.Dominio.Cliente">
     <Position X="6.25" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAgAAAAACAAAIAAAAAAAAgAAEAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAACAAAIAAAAAAAAgAAEAgAA=</HashCode>
       <FileName>Cliente.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
-      <Property Name="EnderecoResidencial" />
       <Property Name="Sexo" />
+      <Property Name="EnderecoResidencial" />
     </ShowAsAssociation>
   </Class>
   <Class Name="FinTech.Dominio.ContaCorrente">
-    <Position X="6.25" Y="3.75" Width="1.5" />
+    <Position X="8" Y="5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAQAAAAAgAAIAAAARAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
       <FileName>ContaCorrente.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="Agencia" />
-      <Property Name="Cliente" />
-    </ShowAsAssociation>
   </Class>
   <Class Name="FinTech.Dominio.Endereco" Collapsed="true">
     <Position X="3.5" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAABAAAIAAAAAAACAAAAAAAAAAAAAAAABAAA=</HashCode>
       <FileName>Endereco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinTech.Dominio.ContaEspecial" Collapsed="true">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ContaEspecial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinTech.Dominio.Poupanca" Collapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Poupanca.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Enum Name="FinTech.Dominio.Sexo" Collapsed="true">

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace FinTech.Dominio
 {
@@ -8,6 +9,7 @@ namespace FinTech.Dominio
         public string CPF { get; set; }
         public DateTime DataNascimento { get; set; }
         public Sexo Sexo { get; set; }
-        public Endereco EnderecoResidencial { get; set; }
+        public string EnderecoResidencial { get; set; }
+        public List<Conta> Contas { get; set; } = new List<Conta>();// todas as classes que herdam de conta podem ser incluídas aqui 
     }
 }

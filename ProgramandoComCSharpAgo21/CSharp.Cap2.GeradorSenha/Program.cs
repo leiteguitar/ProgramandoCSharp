@@ -10,26 +10,26 @@ namespace CSharp.Cap2.GeradorSenha
     {
         static void Main(string[] args)
         {
-            int qtdeDigitos = 0;
-            bool senhaValida = false;
+            //int qtdeDigitos = 0;
+            //bool senhaValida = false;
 
-            while (!senhaValida)
-            {
-                Console.WriteLine("Informe a qtde de dígitos da senha entre 4 e 10: ");
+            //while (!senhaValida)
+            //{
+            //    Console.WriteLine("Informe a qtde de dígitos da senha entre 4 e 10: ");
 
-                qtdeDigitos = Convert.ToInt32(Console.ReadLine());
+            //    qtdeDigitos = Convert.ToInt32(Console.ReadLine());
 
-                senhaValida = VerificaDigito(qtdeDigitos, senhaValida);
-            }
-            if (senhaValida)
-            {
-                Senha password = new Senha(qtdeDigitos);
-                string novaSenha = password.GerarSenha();
+            //    senhaValida = VerificaDigito(qtdeDigitos, senhaValida);
+            //}
+            //if (senhaValida)
+            //{
+            //    Senha password = new Senha(qtdeDigitos);
+            //    string novaSenha = password.GerarSenha();
 
-                Console.WriteLine($"Sua senha é {novaSenha}");
-                Console.ReadKey();
-            }
-            
+            //    Console.WriteLine($"Sua senha é {novaSenha}");
+            Console.ReadKey();
+            //}
+
         }
 
         private static bool VerificaDigito(int qtdeDigitos, bool senhaValida)
@@ -44,6 +44,23 @@ namespace CSharp.Cap2.GeradorSenha
             }
 
             return senhaValida;
+        }
+
+        
+        private decimal MediaDecimais(decimal x, decimal y)
+        {
+            return (x + y) / 2;
+        }
+
+        private decimal MediaDecimais(params decimal[] decimais) // params
+        {
+            decimal soma = 0m;
+
+            foreach (decimal decimalItem in decimais)
+            {
+               soma += decimalItem;
+            }
+            return soma / decimais.Length;
         }
     }
 }
