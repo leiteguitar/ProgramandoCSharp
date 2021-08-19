@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "FinTech.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/FinTech.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinTech.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinTech.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../FinTech.Dominio/FinTech.Dominio.csproj",
+      "msbuildProject": "../FinTech.Dominio/FinTech.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "FinTech.Dominio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vinny\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\Fintech.Repositorio.FileSystem\\Fintech.Repositorio.FileSystem.csproj",
+      "projectName": "Fintech.Repositorio.FileSystem",
+      "projectPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\Fintech.Repositorio.FileSystem\\Fintech.Repositorio.FileSystem.csproj",
+      "packagesPath": "C:\\Users\\Vinny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\Fintech.Repositorio.FileSystem\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Vinny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\FinTech.Dominio\\FinTech.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\FinTech.Dominio\\FinTech.Dominio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

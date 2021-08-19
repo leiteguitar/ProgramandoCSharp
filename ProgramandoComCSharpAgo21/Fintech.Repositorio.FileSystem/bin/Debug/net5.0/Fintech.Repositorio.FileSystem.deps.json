@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fintech.Repositorio.FileSystem/1.0.0": {
+        "dependencies": {
+          "FinTech.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Fintech.Repositorio.FileSystem.dll": {}
+        }
+      },
+      "FinTech.Dominio/1.0.0": {
+        "runtime": {
+          "FinTech.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fintech.Repositorio.FileSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinTech.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

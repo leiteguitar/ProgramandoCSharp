@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/FinTech.Dominio.dll": {}
         }
+      },
+      "Fintech.Repositorio.FileSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "FinTech.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Fintech.Repositorio.FileSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fintech.Repositorio.FileSystem.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../FinTech.Dominio/FinTech.Dominio.csproj",
       "msbuildProject": "../FinTech.Dominio/FinTech.Dominio.csproj"
+    },
+    "Fintech.Repositorio.FileSystem/1.0.0": {
+      "type": "project",
+      "path": "../Fintech.Repositorio.FileSystem/Fintech.Repositorio.FileSystem.csproj",
+      "msbuildProject": "../Fintech.Repositorio.FileSystem/Fintech.Repositorio.FileSystem.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "FinTech.Dominio >= 1.0.0"
+      "FinTech.Dominio >= 1.0.0",
+      "Fintech.Repositorio.FileSystem >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +79,9 @@
           "projectReferences": {
             "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\FinTech.Dominio\\FinTech.Dominio.csproj": {
               "projectPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\FinTech.Dominio\\FinTech.Dominio.csproj"
+            },
+            "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\Fintech.Repositorio.FileSystem\\Fintech.Repositorio.FileSystem.csproj": {
+              "projectPath": "C:\\Users\\Vinny\\source\\repos\\ProgrmandoCSharp\\IMPACTACSHARP\\ProgramandoCSharp\\ProgramandoComCSharpAgo21\\Fintech.Repositorio.FileSystem\\Fintech.Repositorio.FileSystem.csproj"
             }
           }
         }

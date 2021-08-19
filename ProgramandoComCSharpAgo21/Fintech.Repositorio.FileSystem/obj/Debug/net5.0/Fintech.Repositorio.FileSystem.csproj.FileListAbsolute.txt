@@ -1,0 +1,15 @@
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\bin\Debug\net5.0\Fintech.Repositorio.FileSystem.deps.json
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\bin\Debug\net5.0\Fintech.Repositorio.FileSystem.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\bin\Debug\net5.0\ref\Fintech.Repositorio.FileSystem.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\bin\Debug\net5.0\Fintech.Repositorio.FileSystem.pdb
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\bin\Debug\net5.0\FinTech.Dominio.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\bin\Debug\net5.0\FinTech.Dominio.pdb
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\obj\Debug\net5.0\Fintech.Repositorio.FileSystem.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\obj\Debug\net5.0\Fintech.Repositorio.FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\obj\Debug\net5.0\Fintech.Repositorio.FileSystem.AssemblyInfoInputs.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\obj\Debug\net5.0\Fintech.Repositorio.FileSystem.AssemblyInfo.cs
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\obj\Debug\net5.0\Fintech.Repositorio.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\obj\Debug\net5.0\Fintech.Repositorio.FileSystem.csproj.CopyComplete
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\obj\Debug\net5.0\Fintech.Repositorio.FileSystem.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\obj\Debug\net5.0\ref\Fintech.Repositorio.FileSystem.dll
+C:\Users\Vinny\source\repos\ProgrmandoCSharp\IMPACTACSHARP\ProgramandoCSharp\ProgramandoComCSharpAgo21\Fintech.Repositorio.FileSystem\obj\Debug\net5.0\Fintech.Repositorio.FileSystem.pdb

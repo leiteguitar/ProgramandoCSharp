@@ -1,4 +1,5 @@
-﻿using FinTech.Dominio;
+﻿using Fintech.Repositorio.FileSystem;
+using FinTech.Dominio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -182,7 +183,10 @@ namespace Fintech.Correntista.Wpf
         {
             SelecionaCliente(sender);
 
+
+
             contaTextBox.Text = $"{ ClienteSelecionado.Nome} - {ClienteSelecionado.CPF}";
+
             contaComboBox.ItemsSource = ClienteSelecionado.Contas;
             contaComboBox.Items.Refresh();
 
@@ -199,7 +203,11 @@ namespace Fintech.Correntista.Wpf
             Operacao operacao = (Operacao)operacaoComboBox.SelectedItem;
             decimal valor = Convert.ToDecimal(valorTextBox.Text);
 
-            account.EfetuarOperação(valor, operacao);
+            Movimentacao movimento = account.EfetuarOperação(valor, operacao);
+
+            MovimentoRepositorio testeInsere = new MovimentoRepositorio(@"Dados\Movimento.txt");
+            testeInsere.Insere(movimento);
+
             AtualizaGridMoviemtnac(account);
 
         }
